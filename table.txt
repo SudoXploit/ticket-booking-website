@@ -1,0 +1,12 @@
+ticket_booking/
+├── static/
+│   ├── css/
+│   │   └── style.css        # Styling for the website
+│   ├── js/
+│   │   └── script.js        # JavaScript for frontend interactivity
+├── templates/
+│   ├── index.html           # Home page
+│   ├── book.html            # Booking form page
+│   └── confirmation.html    # Confirmation page
+├── app.py                   # Backend server script
+└── requirements.txt         # Dependencies file
